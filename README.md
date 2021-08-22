@@ -5,5 +5,5 @@ Udemy:BERTによる自然言語処理を学ぼう！ -Attention、Transformerか
 * Pretrained Japanese BERT models.  
 https://github.com/cl-tohoku/bert-japanese. 
 
-* livedoorコーパスデータ. 
+* livedoorコーパスデータ.  
 https://www.rondhuit.com/download.html#ldcc
