@@ -6,4 +6,4 @@ Udemy:BERTによる自然言語処理を学ぼう！ -Attention、Transformerか
 https://github.com/cl-tohoku/bert-japanese. 
 
 * livedoorコーパスデータ
-
+https://www.rondhuit.com/download.html#ldcc
