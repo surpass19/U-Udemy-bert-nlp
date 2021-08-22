@@ -14,3 +14,6 @@ https://github.com/cl-tohoku/bert-japanese.
 
 * livedoorコーパスデータ.  
 https://www.rondhuit.com/download.html#ldcc
+
+* BERTSUM 要約.  
+https://github.com/surpass19/YouyakuMan
