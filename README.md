@@ -3,8 +3,13 @@ Udemy:BERTによる自然言語処理を学ぼう！ -Attention、Transformerか
 
 Github:https://github.com/yukinaga/bert_nlp
 
-# 参照
-* Pretrained Japanese BERT models.  
+## 学んだこと
+* BERTのファインチューニング (5-1_news_classification.ipynb)   
+やり方 : 日本語の事前学習済みモデル[1] ⇨ [1]と紐付いたTokenizer → train/testデータでファインチューニング.  
+データセットの読み込みの過程でデータセット(label)を作る. 
+
+## 参照
+* 1, Pretrained Japanese BERT models.  
 https://github.com/cl-tohoku/bert-japanese. 
 
 * livedoorコーパスデータ.  
